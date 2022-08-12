@@ -15,7 +15,7 @@
  
 <div>
   
-  <a href = "mailto:matheusmarcelosantos739@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+  
   <a href="https://www.linkedin.com/in/matheus-santos-a97988168" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Animação de cobra](https://github.com/matheussmms/matheussmms/blob/output/github-contribution-grid-snake.svg)
